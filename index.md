@@ -1,7 +1,8 @@
 ---
-title: About Alembic
+title: "Categories:"
 layout: categories
 feature_text: |
-  ## Alembic
+  ## Spicy Tuna Studios
+  We create so you don't have to.
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
