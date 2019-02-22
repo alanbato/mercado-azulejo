@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "The City Life"
-feature_text: |
-  ## Alembic
-  Our collection of cityscapes and urban lifestyle.
 feature_image: "https://i.ytimg.com/vi/zJOg_DdklwQ/maxresdefault.jpg"
+feature_text:  |
+  ## Urban
 excerpt: Our collection of cityscapes and urban lifestyle.
 date:   2019-02-20 10:00:00 -0600
 categories: Urban

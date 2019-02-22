@@ -25,14 +25,14 @@
   {
     "title": "About",
     "excerpt": "\n",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com\n\nYou can find the source code for Minima at GitHub:\njekyll /\nminima\n\nYou can find the source code for Jekyll at GitHub:\njekyll /\njekyll\n\n",
+    "content": "This is the portfolio of the following creators:\nAlan Velasco\nAngel Seiji\nY su amigo (nombre TBD)\n",
     "url": "/about/"
   },
   
   {
     "title": "About Alembic",
-    "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
-    "content": "Hello world!\n",
+    "excerpt": "\n",
+    "content": "\n",
     "url": "/"
   }
   
