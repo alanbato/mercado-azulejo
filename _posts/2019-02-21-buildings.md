@@ -10,6 +10,10 @@ categories: Urban
 ---
 Here are some of the works we have on urban settings.
 
-{% include figure.html image="/assets/building1.png" caption="A non-conventional three-story appartment building" %}
+{% include figure.html image="/assets/building1.png" caption="A non-conventional three-story appartment building." %}
 
 {% include figure.html image="/assets/house1.png" caption="A house with a small front but with a big backyard." %}
+
+{% include figure.html image="/assets/highrise_building.png" caption="An amazing skyscraper in a city when the sun is settling down." %}
+
+{% include figure.html image="/assets/car.png" caption="A small but efficient city car." %}
